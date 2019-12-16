@@ -1,8 +1,6 @@
 from tkinter import *
 from tkinter import font
 from fractions import Fraction
-import math
-import string
 
 root = Tk()
 root.title("Simple calculator")
